@@ -1,3 +1,5 @@
+// calculate the sum of odd numbers in an array
+
 
 const arraySumOfOdd_1 = (array: number[]): number => {
     let result: number = 0;
