@@ -1,3 +1,4 @@
+// Finding the largest number
 
 const findLargestNumber_1 = (array: number[]): number => {
     let max: number = array[0];
