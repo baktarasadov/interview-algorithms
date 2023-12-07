@@ -1,3 +1,4 @@
+// Calculating the sum of Even numbers in an array
 
 const arraySumOfEven_1 = (array: number[]): number => {
     let result: number = 0;
