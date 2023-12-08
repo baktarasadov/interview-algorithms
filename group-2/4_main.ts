@@ -1,10 +1,4 @@
-// const getTime = (number: number): { hour: number, minute: number } => {
-//     const hour = Math.floor(number / 60);
-//     const minute = number % 60;
-//     return { hour, minute }
-// }
-
-// console.log(getTime(170));
+// Checks the equality of characters in a string
 
 const equalityOfCharacter_1 = (word: string): boolean => {
     let x = 0;
